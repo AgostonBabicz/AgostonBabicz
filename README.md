@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgostonBabicz
-- 👀 I’m interested in Java, C, Phyton programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, C, Phyton programming and 
+- 🌱 I’m currently learning Java, HTML/CSS and Javascript
 - 💞️ I’m looking to collaborate on every project with which I can improve.
 - 📫 How to reach me: babiczagoston3@gmail.com
 <!---
